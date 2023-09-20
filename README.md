@@ -5,7 +5,7 @@ Potion **wood**
 ?loc = caves
   brew wood
 
-  ?foe.distance < 22 & item.potion ! empty & item.potion = auto
+  ?foe.distance < 22 & item.potion ! empty
     activate potion
 
   ?pickup.distance < 10
