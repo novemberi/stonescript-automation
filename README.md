@@ -3,6 +3,8 @@ Require ☆7 crossbow
 Potion **wood**
 ```
 ?loc = caves
+  brew wood
+
   ?foe.distance < 22 & item.potion ! empty & item.potion = auto
     activate potion
 
