@@ -59,6 +59,7 @@ Recommend use this script general for boss.
         equipL triskelion
         equipR star
 ```
+https://github.com/novemberi/stonescript-automation/assets/37071240/d87e13a2-66c4-4243-b84f-7a6b24aeef5d
 ### Tar ☆4
 - Require
   - Crossbow ☆7 ↑
