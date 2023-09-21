@@ -12,9 +12,12 @@ Recommend use this script general for boss.
 ```
 
 ## For Beginner
-### Wood ☆4~5(White)
+### Wood ☆4~5
 - Require
   - resources - tar (potion)
+  - Dashing Shield
+- Recommend
+  - Sword Damage 10 ↑
 ```
 ?loc = deadwood
   brew tar
@@ -56,7 +59,7 @@ Recommend use this script general for boss.
         equipL triskelion
         equipR star
 ```
-### Tar ☆4(White)
+### Tar ☆4
 - Require
   - Crossbow ☆7 ↑
 - Recommend
