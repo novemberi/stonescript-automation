@@ -58,8 +58,9 @@ Recommend use this script general for boss.
 ```
 ### Tar ☆4(White)
 - Require
-  - resources - tar (potion)
   - Crossbow ☆7 ↑
+- Recommend
+  - resources - wood (potion)
 ```
 ?loc = caves
   brew wood
