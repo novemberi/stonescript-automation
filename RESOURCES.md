@@ -1,5 +1,5 @@
 # Table of Contents
-- [For Beginner]()
+- [For Beginner](./RESOURCES.md#for-beginner)
 
 ## Recommend
 Recommend use this script general for boss.
