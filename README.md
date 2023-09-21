@@ -1,27 +1,6 @@
-# Caves ☆ 4
-Require ☆7 crossbow
-Potion **wood**
-```
-?loc = caves
-  brew wood
+# Stone Story - Automation
+This repository is a documentation of automation for Stone Story RPG.
+If you have any issues with the script, please post the Issues tab, and for additional improvements or content additions, create a new PR request following the template.
 
-  ?foe.distance < 22 & item.potion ! empty
-    activate potion
-
-  ?pickup.distance < 10
-    equipL star
-
-  ?foe = boss
-    equipL shield *7
-    equipR crossbow *7
-  :?foe.distance < 22
-    equipL ouroboros
-    equipR crossbow *7
-  :
-    ?pickup.distance < 10
-      equipL star
-      equipR triskelion
-    :
-      equipL ouroboros
-      equipR triskelion
-```
+## Resources
+You can check automation scripts about resources in [here](./RESOURCES.md).
